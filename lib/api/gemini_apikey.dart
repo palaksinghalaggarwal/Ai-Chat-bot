@@ -1,3 +1,3 @@
 //place your api key
 
-const String apikey = 'AIzaSyCAZAXqXAMLnZNNre52pahn8DstHHEwO20';
+const String apikey = 'YOUR_API_KEY_HERE';
